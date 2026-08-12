@@ -1,0 +1,20 @@
+SEVDİYE TEKER — GITHUB PAGES YÜKLEME TALİMATI
+
+GitHub deposu:
+https://github.com/sevdiyeteker/sevdiyeteker.github.io
+
+Yüklenecek üç dosya:
+1. index.html
+2. style.css
+3. sevdiye-teker.jpg
+
+Adımlar:
+1. GitHub deposunu açın.
+2. "Add file" düğmesine, ardından "Upload files" seçeneğine dokunun.
+3. Yukarıdaki üç dosyayı seçin. ZIP dosyasını doğrudan yüklemeyin; önce telefonunuzda çıkarın.
+4. Sayfanın altındaki "Commit changes" düğmesine dokunun.
+5. Birkaç dakika sonra https://sevdiyeteker.github.io adresini açın.
+
+Site açılmazsa:
+Depoda Settings > Pages bölümünü açın. Source alanında "Deploy from a branch",
+Branch alanında "main" ve klasör alanında "/ (root)" seçili olmalıdır.
